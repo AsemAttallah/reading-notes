@@ -1,6 +1,6 @@
 # Reading and Writing Files in Python
 ### What is the purpose of the ‘with’ statement when opening a file in Python, and how does it help manage resources while reading and writing files?
-* ### After opening the file for raeding or writing <code>with</code> statement help us to take care automatically when closeing of the file. "<code>with</code> statement allows for cleaner code and makes handling any unexpected errors easier users"
+* ### After opening the file for reading or writing <code>with</code> statement help us to take care automatically when closing of the file. "<code>with</code> statement allows for cleaner code and makes handling any unexpected errors easier users"
 
 ### Explain the difference between the ‘read()’ and ‘readline()’ methods for file objects in Python. Provide examples of when to use each method.
 * ### .read() : It is reading the entire file.

@@ -7,4 +7,5 @@
 * ### [Class 01-Reading](./Read%20_class01.md)
 * ### [Class 02-Reading](./Read_class02.md)
 * ### [Class 03-Reading](./Read_class03.md)
+* ### [Class 05-Reading](./Read_class05.md)
 
