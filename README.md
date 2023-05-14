@@ -8,4 +8,4 @@
 * ### [Class 02-Reading](./Read_class02.md)
 * ### [Class 03-Reading](./Read_class03.md)
 * ### [Class 05-Reading](./Read_class05.md)
-
+* ### [Class 06-Reading](./Read_class06.md)
