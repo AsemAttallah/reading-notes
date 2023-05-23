@@ -12,4 +12,5 @@
 * ### [Class 07-Reading](./Read_class07.md)
 * ### [Class Stack and Queue](./Read_Stacks%20%26%20Queues.md)
 * ### [Class 08-Reading](./Read_class08.md)
+* ### [Class 09-Reading](./Read_class09.md)
 
