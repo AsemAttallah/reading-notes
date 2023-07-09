@@ -16,4 +16,5 @@
 * ### [Class 11-Reading](./Read_class11.md)
 * ### [Class 12-Reading](./Read_class12.md)
 * ### [Class 13-Reading](./Read_class13.md)
-* ### [Class 13-Reading](./Read_class14.md)
+* ### [Class 14-Reading](./Read_class14.md)
+* ### [Class 26-Reading](./Read_class26.md)
