@@ -20,3 +20,4 @@
 * ### [Class 26-Reading](./Read_class26.md)
 * ### [Class 27-Reading](./Read_class27.md)
 * ### [Class 28-Reading](./Read_class28.md)
+* ### [Class 29-Reading](./Read_class29.md)
